@@ -1,0 +1,15 @@
+
+
+student
+suid
+name
+
+
+patient
+pid
+suid
+
+
+select pid,suid,name ***   from
+student join patient on student.suid = patient.suid
+order name

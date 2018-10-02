@@ -1,0 +1,36 @@
+
+interested in finding ways to apply and improve my C++ development skills. 
+currently working as  C++ developer at upsate medical and my main goal is to use the best design practice to build the tool itself
+
+2) ive built mutli-threaded applications like type-based dep analyzer
+3) nosqlDB
+4) in my design pattern course i presented on flyweight pattern and how it can be used to build digital CAD applications
+5) ive also presented on observer and decorator pattern
+
+
+6) CPGUI C++ proj at upstate
+7) graph visualization tool (elapse using physics laws) //  d3.js tool
+
+
+
+8) privacy mirror tool where we build annotated objects and styles using templates already available in android
+
+
+
+std::mutex mtx;           // mutex for critical section
+
+void print_thread_id (int id) {
+  // critical section (exclusive access to std::cout signaled by locking mtx):
+  mtx.lock();
+  std::cout << "thread #" << id << '\n';
+  mtx.unlock();
+}
+
+
+
+std::thread threads[10];
+  // spawn 10 threads:
+  for (int i=0; i<10; ++i)
+    threads[i] = std::thread(print_thread_id,i+1);
+
+  for (auto& th : threads) th.join()

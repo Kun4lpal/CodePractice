@@ -1,0 +1,27 @@
+
+
+
+
+
+
+1) my first software development experience was at Airtel where i worked on Java/SQL/HTML/CSS/Javascript
+2) one of my project managers provided me a refernce for a full time job at diverse infotech
+3) Then i decided to pursue Master's in CE because i wanted to learn more
+4) the most interesting academic projects in my first year i worked on were dependency analyzer and remote test harness
+
+Then i joined SALT Lab last summer - where we work on privacy/human interaction and accessiblity
+Later in the last semester my professor recommended me to the image processing role because i had gained some experience in it.
+
+
+
+PriorityQueue<String> pq=
+                    new PriorityQueue<String>(5,(a,b) -> a.length() - b.length());
+
+
+Queue<String> myQueue = new LinkedList<String>();
+Queue<Integer> myNumbers = new LinkedList<Integer>();
+myQueue.add("Hello");
+myQueue.add("World");
+myNumbers.add(1);
+myNumbers.add(2);                    
+

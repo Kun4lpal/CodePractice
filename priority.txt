@@ -1,0 +1,67 @@
+https://www.glassdoor.com/Interview/us-software-engineer-interview-questions-SRCH_IL.0,2_IN1_KO3,20_SDRD_IP9.htm
+Antra 1 java/sql
+Finraa 2
+
+google-2nd 1
+walmart lab 2
+
+chatham financial 2
+mathwork 2
+celerity 2
+cerner 3
+epe 2
+Siemens 2 C++/image-processing
+akuna 1
+google-1rst 1
+amazon audible 1
+fidessa 1
+quantcast 1
+yapstone 1 java/sql
+
+Priority:
+1) CTCI
+2) codefights
+3) leetcode
+<----------------------------------------------------------------------------------------------------------------->
+
+collective health
+
+chatham financial
+1) wasn't able to describe the project - crowd intent
+2) which technologies you like: angular js + machine learning (which they don't use)
+
+amadeus
+1) talked about research projects and mentioned i liked working on them because they made an impact
+2) answer should be that i learned a lot of things about design, OOD and dbms
+
+mathwork
+1) wrong C++ pointer response
+2) wrong linear differential eqn response
+3) tech profile? reason for joining should be the company history and uniqueness
+
+Cerner
+1) wrong answers to behavioural questions (biggest bug)
+2) did not discuss while writing the ood code
+3) didnt take ownership of the project i worked on
+
+
+
+210001409239
+50015407500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

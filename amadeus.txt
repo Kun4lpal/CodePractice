@@ -1,0 +1,39 @@
+hi my name is Kunal, i am grad student graduating this May.I have almost 2 years of 
+software development experience working on C++/python and Java. 
+
+Currently i am working as a C++ developer at Upstate Medical hospital where i build image reconstruction tools. 
+
+Also for the past year i have been working as a research assistant at SALT lab in areas like human interaction and accessiblity. There we make use machine learning to build tools that enable disabled ppl to perform complex tasks.
+
+And previously i have worked with Java building web applications on Spring MVC framework. involved with db design/testing/
+
+And now i look to improve my technical skills as a backend developer by applyin for this role
+
+
+
+
+
+Amadeus is a functional IT company headquartered in Madrid and operates from france
+
+Amadeus provides solutions to the global tarvel industry. 
+Creating solutions and building tools to optimize business workflows 
+
+backend reservation processing, plane balancing software, flight cancellation software, weather etc
+
+Interview from 3pm to 5pm.
+Bernard laquet, alberto martinez, Karim halioui (director)
+
+
+
+
+
+1050 winter St, waltham, MA 02451
+C++/python (dont talk about full stack or java)
+C++/unix/team player/diversity/backend/Design pattern/agile/TDD/service oriented architecture
+XML/JSON/HTTP protocol
+
+
+why you want to work?
+top technology company, smart ppl
+diversity
+True will and action to expand in US
